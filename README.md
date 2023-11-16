@@ -13,8 +13,8 @@ Before running the application, ensure you have Python 3 installed on your syste
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/kenza12/formation.git
-cd formation/projet4/chess_management
+git clone https://github.com/kenza12/Projet4.git
+cd Projet4
 ```
 
 ### Dependencies
